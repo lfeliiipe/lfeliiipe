@@ -1,40 +1,41 @@
-<h2 align="center">Luiz Felipe Rodrigues</h2>
-<div align="center" style="position: absolute;">
-<pre align="left" width="100">
-MMMMMMMMMMMMMWXkolcccldk0KNNWMMMMMMMMMMM      <b>Contact</b>
-MMMMMMMMMMMMNkc,'',;;;:cldxkO0KNWMMMMMMM      <a href="linkedin.com/in/lfelipersb"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="18" /></a>
-MMMMMMMMMMW0l,..'',:llllllllllldONMMMMMM      
-MMMMMMMMMM0:..',:cok000KKKKOdoc:cxNMMMMM      
-MMMMMMMMMWx'..,lxO0XXNNNWWWNXKxc;c0MMMMM      
-MMMMMMMMMNl..,ldddddxkO00000000d;;kWMMMM      <b>Projects</b>
-MMMMMMMMM0,.'clc;;::::colcccllod:,dNMMMM      <a href="https://lfeliiipe.github.io/challenge-decodificador">Decodificador</a>
-MMMMMMMMWO;':lc,'',;;:dOd::::::oc,dNMMMM
-MMMMMMMMXd:,codolc::coOXkc:::cooc;dNMMMM
-MMMMMMMMXx:;clodddooodOKOxxkO0OxocdXMMMM
-MMMMMMMMWOlc::::;;:::::::ccldddoodONMMMM
-MMMMMMMMMWXkl;;;,',;;,,,;cc;::::oOXMMMMM
-MMMMMMMMMMMWk:;;;,,,;;;;;:;;;;;cxXWMMMMM
-MMMMMMMMMMMMNd;;;;;;;,,;::::;;l0WMMMMMMM
-MMMMMMMMMWXOdc,',;;;:::looc;:xXMMMMMMMMM
-MMMWX0xdl:,.,:,'''',,,;:::;,lKWMMMMMMMMM
-kdoc,... .',clc;,''''''''',,;:dXWMMMMMMM
-.........:cclooc:;;;;;;,,,,:l:.;dOKNWMMM
-........:lllloddoc;;;;;,,:cdxd:'.',coxOX
-.......:looooddxxxoc:;;:coxkO0x:'......,
-</pre>
+<img align="left" src="https://raw.githubusercontent.com/lfeliiipe/lfeliiipe/main/pic.svg" />
 
-  <h2>Stack</h2>
-    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="100" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="100" />
+### About Me
+---
+
+Hi! I am Luiz Felipe Rodrigues, and I like to code ☺️
+
+<br>
+
+### Contact
+---
+<div align="">
+  <a href="https://linkedin.com/in/lfelipersb"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="50" /></a>
 </div>
 
+<!--
+### Projects
+---
+<div align="">
+  <a href="https://lfeliiipe.github.io/challenge-decodificador"><b>Decodificador</b></a>
+</div>
+<br>
+-->
+
+### Stack
+---
+
+<div align="">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="75"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="75"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="75"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="75" />
+  <img src="https://github.com/lfeliiipe/lfeliiipe/assets/53595200/160e5942-4c39-4f88-836f-3e3f0586f0a2" width="75" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="75" />
+</div>
+    
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lfeliiipe/lfeliiipe/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lfeliiipe/lfeliiipe/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/lfeliiipe/lfeliiipe/output/github-contribution-grid-snake.svg" />
 </picture>
-          
-  
