@@ -7,10 +7,14 @@ Hi! I am Luiz Felipe Rodrigues, and I like to code ☺️
 
 <br>
 
+
+
 ### Contact
 ---
 <div align="">
-  <a href="https://linkedin.com/in/lfelipersb"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="50" /></a>
+  <a href="https://linkedin.com/in/lfelipersb"><img align="left" src="https://github.com/lfeliiipe/lfeliiipe/assets/53595200/9299eb46-1e91-4f41-af21-a641b6cacbdd" height="100"/></a>
+  &nbsp;
+  <a href="https://replit.com/@lfeliiipe"><img src="https://github.com/lfeliiipe/lfeliiipe/assets/53595200/13326483-d2d8-4ec9-bf79-8717001bd481" height="100"/></a>
 </div>
 
 <!--
