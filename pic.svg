@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="550px" font-size="16px">
+    
+    <style>
+        .keyColor {fill: #ffa657;}
+        .valueColor {fill: #a5d6ff;}
+        .addColor {fill: #3fb950;}
+        .delColor {fill: #f85149;}
+        .commentColor {fill: #8b949e;}
+        text, tspan {white-space: pre;}
+    </style>
+
+    <rect width="385px" height="530px" fill="#161b22" rx="15"/>
+
+    <text x="15" y="30" fill="#c9d1d9" class="ascii">
+        <tspan x="15" y="030">MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM</tspan>
+        <tspan x="15" y="050">MMMMMMMMMMMMMMMMWNXKKXNWWMMMMMMMMMMMMMMM</tspan>
+        <tspan x="15" y="070">MMMMMMMMMMMMMWXkolcccldk0KNNWMMMMMMMMMMM</tspan>
+        <tspan x="15" y="090">MMMMMMMMMMMMNkc,'',;;;:cldxkO0KNWMMMMMMM</tspan>
+        <tspan x="15" y="110">MMMMMMMMMMW0l,..'',:llllllllllldONMMMMMM</tspan>
+        <tspan x="15" y="130">MMMMMMMMMM0:..',:cok000KKKKOdoc:cxNMMMMM</tspan>
+        <tspan x="15" y="150">MMMMMMMMMM0:..',:cok000KKKKOdoc:cxNMMMMM</tspan>
+        <tspan x="15" y="170">MMMMMMMMMWx'..,lxO0XXNNNWWWNXKxc;c0MMMMM</tspan>
+        <tspan x="15" y="190">MMMMMMMMMNl..,ldddddxkO00000000d;;kWMMMM</tspan>
+        <tspan x="15" y="210">MMMMMMMMM0,.'clc;;::::colcccllod:,dNMMMM</tspan>
+        <tspan x="15" y="230">MMMMMMMMWO;':lc,'',;;:dOd::::::oc,dNMMMM</tspan>
+        <tspan x="15" y="250">MMMMMMMMXd:,codolc::coOXkc:::cooc;dNMMMM</tspan>
+        <tspan x="15" y="270">MMMMMMMMXx:;clodddooodOKOxxkO0OxocdXMMMM</tspan>
+        <tspan x="15" y="290">MMMMMMMMWOlc::::;;:::::::ccldddoodONMMMM</tspan>
+        <tspan x="15" y="310">MMMMMMMMMWXkl;;;,',;;,,,;cc;::::oOXMMMMM</tspan>
+        <tspan x="15" y="330">MMMMMMMMMMMWk:;;;,,,;;;;;:;;;;;cxXWMMMMM</tspan>
+        <tspan x="15" y="350">MMMMMMMMMMMMNd;;;;;;;,,;::::;;l0WMMMMMMM</tspan>
+        <tspan x="15" y="370">MMMMMMMMMWXOdc,',;;;:::looc;:xXMMMMMMMMM</tspan>
+        <tspan x="15" y="390">MMMWX0xdl:,.,:,'''',,,;:::;,lKWMMMMMMMMM</tspan>
+        <tspan x="15" y="410">kdoc,... .',clc;,''''''''',,;:dXWMMMMMMM</tspan>
+        <tspan x="15" y="430">.........:cclooc:;;;;;;,,,,:l:.;dOKNWMMM</tspan>
+        <tspan x="15" y="450">........:lllloddoc;;;;;,,:cdxd:'.',coxOX</tspan>
+        <tspan x="15" y="470">.......:looooddxxxoc:;;:coxkO0x:'......,</tspan>
+        <tspan x="15" y="490">......;loddoodxxxdllcc:lxkk0XNKxc'......</tspan>
+        <tspan x="15" y="510">.  ..,lodddddddo:......'cx0XNWNOo:......</tspan>
+    </text>
+</svg>
