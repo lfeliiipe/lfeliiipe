@@ -1,5 +1,6 @@
 <img align="left" src="https://raw.githubusercontent.com/lfeliiipe/lfeliiipe/main/pic.svg" />
 
+
 ### About Me
 ---
 
@@ -7,7 +8,17 @@ Hi! I am Luiz Felipe Rodrigues, and I like to code ☺️
 
 <br>
 
+### Stack
+---
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="75"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="75"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="75" />
+  <img src="https://github.com/lfeliiipe/lfeliiipe/assets/53595200/160e5942-4c39-4f88-836f-3e3f0586f0a2" width="75" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="75"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="75" />
+</div>
 
 ### Contact
 ---
@@ -26,17 +37,7 @@ Hi! I am Luiz Felipe Rodrigues, and I like to code ☺️
 <br>
 -->
 
-### Stack
----
 
-<div align="">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="75"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="75"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="75"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="75" />
-  <img src="https://github.com/lfeliiipe/lfeliiipe/assets/53595200/160e5942-4c39-4f88-836f-3e3f0586f0a2" width="75" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="75" />
-</div>
     
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lfeliiipe/lfeliiipe/output/github-contribution-grid-snake-dark.svg" />
